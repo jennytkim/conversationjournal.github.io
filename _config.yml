@@ -37,8 +37,7 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-paginate
+plugins_dir:
   - jekyll-feed
   - jekyll-sitemap
 
